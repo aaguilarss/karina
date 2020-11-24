@@ -12,7 +12,7 @@ This severly reduces the need for libraries that deal with different list-like s
 
 This library provides utilities to define abstract list models for use in code, and a way to manage different abstract list models so that one can switch between them. So it kind of provides the interface for the entire 2-category of list-model-categories without, at this time, fully understanding what that means 😃.
 
-Furthermore, one can remove one of the axioms to obtain weak list-model-categories, wich provide an interface to infinite data structure manipulation. Probably best served with lazy list-model-categories. This library implicitly supports those.
+Furthermore, one can remove one of the axioms to obtain weak list-model-categories, wich provide an interface to infinite data structure manipulation. Probably best served with lazy list-model-categories. This library implicitly supports those... I think...
 
 # ⚠️ Warning
 
